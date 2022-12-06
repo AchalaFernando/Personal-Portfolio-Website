@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif; /* google*/
+}
+
+
+.b{
+    background-image: url("img/");
+    background-size: 100%;
+    background-color: #181717;
+    background-position: center;
+    height: auto;
+
+    background-position-y:-40px ;
+}
+.x{
+    list-style: none;
+    margin-left: 710px;
+    display: inlin;
+}
+.y{
+    display: inline;
+    color: white;
+    margin-left: 70px;/* nav item space*/
+    font-family: "Gothama";
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.y:hover,
+tw-link:hover{
+    color: #d3d618;
+
+}
+.logo-main{
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.Social{
+    margin-top: 340px;
+}
+.social-icon{
+    margin-left: 1300px;
+    color: #d3d618; 
+    height: 100px;
+    transition: color 0.3;
+}
+.social-icon:hover{
+    color:#ffffff;   
+}
+
+/*-----Resume  Start---------*/
+.about-img{
+  height: 200px;
+  width: 200px;
+  margin-top: -450px;
+  margin-left: 138px;
+}
+.about-information{
+  margin-left: 650px;
+  margin-top: -190px;   
+}
+.about-information1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #d3d618;
+    letter-spacing: 2px;
+}
+.about-information2{
+    font-size: 20PX;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.about-information3{
+    font-size: 15px;
+    color: #999999;
+    letter-spacing: 0.5px;
+}
+.about-information4{
+    font-size: 15px;
+    color: #999999;
+    letter-spacing: 2px;
+    line-height: 38px;
+}
+
+.btn-cv-downlord{
+  background-color: #d3d618;  
+  border: none;
+  padding: 7px 30px ;
+  cursor: pointer;
+  font-size: 15px;
+  color:#000000 ;
+  margin-left: -0px;
+  border-radius: 20px;
+}
+.btn-cv-downlord :hover{
+    background-color: 999999;
+}
+
+/*-----Resume  End-----------*/
