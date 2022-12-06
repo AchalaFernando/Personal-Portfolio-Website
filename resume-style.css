@@ -8,10 +8,10 @@
 
 .b{
     background-image: url("img/");
-    background-size: 100%;
+    background-size: 100px;
     background-color: #181717;
     background-position: center;
-    height: auto;
+    height: 2000px;
 
     background-position-y:-40px ;
 }
@@ -100,6 +100,18 @@ tw-link:hover{
 }
 .btn-cv-downlord :hover{
     background-color: 999999;
+}
+ /* about skils*/
+.about-skills-heading{
+    font-size: 20px;
+    color: white;
+    margin-left: 350px;
+}
+.skill-paragrah{
+ margin-left: -40px;
+ color:#999999 ;
+ letter-spacing: 1px;
+ line-height: 30px;
 }
 
 /*-----Resume  End-----------*/
