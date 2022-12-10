@@ -113,5 +113,49 @@ tw-link:hover{
  letter-spacing: 1px;
  line-height: 30px;
 }
-
+.skill-informations{
+    margin-left: 800px;
+    margin-right: 70px;
+    margin-top: -119px;
+    
+}
+.skill-levels{
+    list-style: none;
+    color: #999999;
+    line-height: 20px;
+    letter-spacing:2px;
+}
+.skill-full-bar{
+    width: 100%;
+    background-color: #999999;
+    border-radius: 10px 10px;
+}
+.skill-bar-figma{
+    width: 75%;
+    background-color: #d3d618;
+    color: #181717;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.skill-bar-xd{
+    width: 80%;
+    background-color: #d3d618;
+    color: #181717;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.skill-bar-html{
+    width: 70%;
+    background-color: #d3d618;
+    color: #181717;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.skill-bar-css{
+    width: 60%;
+    background-color: #d3d618;
+    color: #181717;
+    font-weight: bold;
+    border-radius: 10px;
+}
 /*-----Resume  End-----------*/
