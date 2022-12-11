@@ -105,7 +105,8 @@ tw-link:hover{
 .about-skills-heading{
     font-size: 20px;
     color: white;
-    margin-left: 350px;
+    margin-left: 680px;
+    margin-bottom: 20px;
 }
 .skill-paragrah{
  margin-left: -40px;
@@ -113,10 +114,51 @@ tw-link:hover{
  letter-spacing: 1px;
  line-height: 30px;
 }
+/*-----*/
+.skill-soft{
+    margin-left:75px ;
+}
+.skill-soft-levels{
+    list-style: none;
+}
+.skill-items-soft-1{
+    width: 16%;
+    background-color: #d3d618;
+    color: #181717;
+    font-weight: bold;
+    border-radius: 10px;
+    padding-left: 15px;
+    line-height: 20px;
+    margin-left: -13px;
+    margin-top: 30px;
+} 
+.skill-items-soft-2{
+    width: 13%;
+    background-color: #d3d618;
+    color: #181717;
+    font-weight: bold;
+    border-radius: 10px;
+    padding-left: 15px;
+    line-height: 20px;
+    margin-left: 230px;
+    margin-top: 20x;
+} 
+.skill-items-soft-3{
+    width: 170px;
+    background-color: #d3d618;
+    color: #181717;
+    font-weight: bold;
+    border-radius: 10px;
+    padding-left: 15px;
+    line-height: 20px;
+    margin-left: 435px;
+    margin-top: 15px;
+}
+/*-----*/
 .skill-informations{
     margin-left: 800px;
     margin-right: 70px;
-    margin-top: -119px;
+    margin-top: -225px;
     
 }
 .skill-levels{
@@ -133,29 +175,33 @@ tw-link:hover{
 .skill-bar-figma{
     width: 75%;
     background-color: #d3d618;
-    color: #181717;
+    color: #d3d618;
     font-weight: bold;
     border-radius: 10px;
+    padding-left: 15px;
 }
 .skill-bar-xd{
     width: 80%;
     background-color: #d3d618;
-    color: #181717;
+    color: #d3d618;
     font-weight: bold;
     border-radius: 10px;
+    padding-left: 15pxx;
 }
 .skill-bar-html{
     width: 70%;
     background-color: #d3d618;
-    color: #181717;
+    color: #d3d618;
     font-weight: bold;
     border-radius: 10px;
+    padding-left: 15px;
 }
 .skill-bar-css{
     width: 60%;
     background-color: #d3d618;
-    color: #181717;
+    color: #d3d618;
     font-weight: bold;
     border-radius: 10px;
+    padding-left: 15px;
 }
 /*-----Resume  End-----------*/
