@@ -105,7 +105,7 @@ tw-link:hover{
 .about-skills-heading{
     font-size: 20px;
     color: white;
-    margin-left: 680px;
+    margin-left: 655px;
     margin-bottom: 20px;
 }
 .skill-paragrah{
@@ -130,7 +130,7 @@ tw-link:hover{
     padding-left: 15px;
     line-height: 20px;
     margin-left: -13px;
-    margin-top: 30px;
+    margin-top: 28px;
 } 
 .skill-items-soft-2{
     width: 13%;
@@ -140,19 +140,19 @@ tw-link:hover{
     border-radius: 10px;
     padding-left: 15px;
     line-height: 20px;
-    margin-left: 230px;
-    margin-top: 20x;
+    margin-left: 235px;
+    margin-top: 29x;
 } 
 .skill-items-soft-3{
-    width: 170px;
+    width: 11.5%;
     background-color: #d3d618;
     color: #181717;
     font-weight: bold;
     border-radius: 10px;
-    padding-left: 15px;
+    padding-left: 19px;
     line-height: 20px;
     margin-left: 435px;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 /*-----*/
 .skill-informations{
@@ -204,4 +204,6 @@ tw-link:hover{
     border-radius: 10px;
     padding-left: 15px;
 }
+
+/* */
 /*-----Resume  End-----------*/
