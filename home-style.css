@@ -31,6 +31,7 @@ margin-top: 10px;
     list-style: none;
     margin-left: 710px;
     display: inlin;
+    
 }
 
 .y{
@@ -46,7 +47,7 @@ margin-top: 10px;
 .y:hover,
 tw-link:hover{
     color: #d3d618;
-
+    
 }
 .logo-main{
     width: 120px;
