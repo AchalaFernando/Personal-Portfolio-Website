@@ -7,27 +7,50 @@
 
 
 .b{
-    background-image: url("img/");
     background-size: 100px;
     background-color: #181717;
     background-position: center;
     height: 1200px;
 
     background-position-y:-40px ;
+    margin-top: 10px;
+}
+.nav-background{
+    width: 100%;
+    height: 50px;
+    background-color: #000000;
+    margin-top: -10px;
+    position: fixed;
+}
+.glass{
+background: linear-gradient(135deg, rgba(255, 255, 255,), rgba(255, 255, 255,));
+backdrop-filter: blur(100px);
+-webkit-backdrop-filter: blur(10px);
+border-radius: 20px;
+border: 10px solid d3d618;
+/*box-shadow: 0 8 32px 0 rgba (0, 0, 0, 0.37 );*/
+box-shadow: 0 8 32px 0 rgba (0, 0, 0, 0.37 );
+color: red;
+margin-top: 1px;
+/* nav fix position*/
+width: 100%;
+position: fixed;
 }
 .x{
     list-style: none;
     margin-left: 710px;
     display: inlin;
+    position: fixed;/*-----------*/
 }
 .y{
     display: inline;
-    color: white;
+    color: rgb(255, 255, 255);
     margin-left: 70px;/* nav item space*/
     font-family: "Gothama";
     font-size: 20px;
     font-weight: bold;
     cursor: pointer;
+    
     
 }
 .y:hover,
@@ -37,17 +60,19 @@ tw-link:hover{
 }
 .logo-main{
     width: 120px;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-left: 30px;
 }
 .Social{
     margin-top: 340px;
+    
 }
 .social-icon{
     margin-left: 1300px;
     color: #d3d618; 
     height: 100px;
     transition: color 0.3;
+    position: fixed;/*-----------*/
 }
 .social-icon:hover{
     color:#ffffff;   
@@ -55,14 +80,12 @@ tw-link:hover{
 
 /*-----Resume  Start---------*/
 .about-img{
-  height: 200px;
-  width: 200px;
-  margin-top: -450px;
-  margin-left: 138px;
+  margin-top: -430px;
+  margin-left: 60px;
 }
 .about-information{
   margin-left: 650px;
-  margin-top: -190px;   
+  margin-top: -465px;   
 }
 .about-information1{
     font-size: 30px;
