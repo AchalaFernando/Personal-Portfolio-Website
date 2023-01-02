@@ -10,7 +10,8 @@
     background-size: 100px;
     background-color: #181717;
     background-position: center;
-    height: 1900px;
+    height: 2200px;
+    
 
     background-position-y:-40px ;
     margin-top: 10px;
@@ -85,7 +86,7 @@ tw-link:hover{
 }
 .about-information{
   margin-left: 650px;
-  margin-top: -465px;   
+  margin-top: -490px;  
 }
 .about-information1{
     font-size: 30px;
@@ -98,7 +99,15 @@ tw-link:hover{
     color: white;
     font-weight: bold;
     letter-spacing: 3px;
+    font-weight: bold;
+    margin-bottom: -20px;
 }
+.skills-underline-0{
+    margin-left: -110px;
+    line-height: 100px;
+    margin-top: 5px;
+}
+
 .about-information3{
     font-size: 15px;
     color: #999999;
@@ -130,6 +139,7 @@ tw-link:hover{
     color: #d3d618;
     margin-left: 105px;
     margin-top: 70px;
+    font-weight: bold;
 }
 .skills-heading{
     margin-left: 105px;
@@ -164,7 +174,7 @@ tw-link:hover{
     margin-top: -10px;
 }
 .skills-Description{
-    font-size: 20px;
+    font-size: 15px;
     color: #999999;
     margin-top: 60px;
     margin-left: 105px;
@@ -228,6 +238,7 @@ tw-link:hover{
     color: #999999;
     line-height: 20px;
     letter-spacing:2px;
+    font-size: 15px;
 }
 .skill-full-bar{
     width: 100%;
@@ -277,7 +288,269 @@ tw-link:hover{
     height: 520px;
 }
 
-/* ----Work Experieance------*/
+    /* ----Work Experieance 1 start ------*/
+
+.experiance-heading-1{
+    margin-left: 600px;
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #d3d618;
+}
+.experiance-heading-2{
+    margin-left: 460px;
+    font-size: 30px;
+    color: #ffffff;
+    letter-spacing: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.experiance-underline-1{
+    height:10px ;
+    width: 100px;
+    background-color: #d3d618;
+    border-radius: 8px;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.experiance-underline-2{
+    height:10px ;
+    width: 18px;
+    background-color: #d3d618;
+    border-radius: 8px;
+    margin-left: 722px;
+    margin-top: -10px;
+}
+.experiance-underline-3{
+    height:10px ;
+    width: 18px;
+    background-color: #d3d618;
+    border-radius: 8px;
+    margin-left: 560px;
+    margin-top: -10px;
+}
+.experiance-verticalline{
+    border-left: 4px solid #d3d618;
+    height: 600px;
+    margin-top:70px;
+    margin-left: 649px;
+}
+.experiance-1-circal{
+    height: 30px;
+    width: 30px;
+    background-color: #d3d618;
+    border-radius: 50px;
+    margin-top: -300px;
+    margin-left: 636px; 
+    align-items: center; 
+    text-align: center;
+    position: relative;
+}
+
+.experiance-1-text{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    color: #000000;
+    margin: 0;margin-left: 642px;
+    margin-top: -24px;
+    font-weight: bold;
+}
+
+    /* border completed*/
+.experiance-1-border{
+    height: 200px;
+    width: 450px;
+    border: 3px solid;
+    border-color: #d3d618;
+    margin-top:-90px ;
+    margin-left: 150px;
+    border-radius: 10px;  
+}
+.experiance-1-place{
+    line-height: 25px;
+    color: #ffffff;
+    margin-left: 195px;
+    margin-top: -185px;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.experiance-bullet-1{
+    height:10px ;
+    width: 18px;
+    background-color: #d3d618;
+    border-radius: 8px;
+    margin-left: 165px;
+    margin-top: -194px;
+}
+.experiance-bullet-2{
+    height:10px ;
+    width: 18px;
+    background-color: #d3d618;
+    border-radius: 8px;
+    margin-left: 165px;
+    margin-top: 41px;
+}
+.experiance-bullet-3{
+    height:10px ;
+    width: 18px;
+    background-color: #d3d618;
+    border-radius: 8px;
+    margin-left: 165px;
+    margin-top: 39px;
+}
+.experiance-bullet-4{
+    height:10px ;
+    width: 18px;
+    background-color: #d3d618;
+    border-radius: 8px;
+    margin-left: 165px;
+    margin-top: 14px;
+}
+    /* border completed*/
+    /* work place 01 start*/
+.experiance-1-place-position{
+    color: white;
+    font-weight: bold;
+    margin-left: 710px;
+    margin-top:-130px;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.experiance-1-place-company{
+    color: #d3d618;
+    font-weight: lighter;
+    margin-left: 710px;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.experiance-1-place-duration{
+   color: #999999;   
+   font-size: 20px;
+   margin-left: 710px;
+   font-weight: normal;
+   letter-spacing: 3px;
+}
+    /* work place 01 end*/
+    /* ----Work Experieance 1 End ------*/
+
+    
+    /* ----Work Experieance 2 start ------*/
+    .experiance-2-circal{
+        height: 30px;
+        width: 30px;
+        background-color: #d3d618;
+        border-radius: 50px;
+        margin-top: 410px;
+        margin-left: 636px; 
+        align-items: center; 
+        text-align: center;
+        position: relative;
+    }
+    
+    .experiance-2-text{
+        height: 100%;
+        width: 100%;
+        position: relative;
+        color: #000000;
+        margin: 0;margin-left: 642px;
+        margin-top: -24px;
+        font-weight: bold;
+    }
+    
+        /* border completed*/
+    .experiance-2-border{
+        height: 200px;
+        width: 500px;
+        border: 3px solid;
+        border-color: #d3d618;
+        margin-top:-90px ;
+        margin-left: 150px;
+        border-radius: 10px;  
+    }
+    .experiance-2-place{
+        line-height: 25px;
+        color: #ffffff;
+        margin-left: 102px;
+        margin-top: -185px;
+        font-size: 15px;
+        letter-spacing: 2px;
+    }
+    .experiance-bullet-5{
+        height:10px ;
+        width: 18px;
+        background-color: #d3d618;
+        border-radius: 8px;
+        margin-left: 165px;
+        margin-top: -194px;
+    }
+    .experiance-bullet-6{
+        height:10px ;
+        width: 18px;
+        background-color: #d3d618;
+        border-radius: 8px;
+        margin-left: 165px;
+        margin-top: 41px;
+    }
+    .experiance-bullet-7{
+        height:10px ;
+        width: 18px;
+        background-color: #d3d618;
+        border-radius: 8px;
+        margin-left: 165px;
+        margin-top: 40px;
+    }
+    .experiance-bullet-8{
+        height:10px ;
+        width: 18px;
+        background-color: #d3d618;
+        border-radius: 8px;
+        margin-left: 165px;
+        margin-top: 40px;
+    }
+        /* border completed*/
+        /* work place 02 start*/
+    .experiance-2-place-position{
+        color: white;
+        font-weight: bold;
+        margin-left: 710px;
+        margin-top:-130px;
+        font-size: 20px;
+        letter-spacing: 5px;
+    }
+    .experiance-2-place-company{
+        color: #d3d618;
+        font-weight: lighter;
+        margin-left: 710px;
+        font-size: 20px;
+        letter-spacing: 4px;
+    }
+    .experiance-2-place-duration{
+       color: #999999;   
+       font-size: 20px;
+       margin-left: 710px;
+       font-weight: normal;
+       letter-spacing: 3px;
+    }
+        /* work place 02 end*/
+    .experiance-full-1{
+        margin-top: -450px;
+    }  
+    .experiance-full-2{
+        margin-top: -210px;
+    }
+    .experiance-2-1{
+        margin-left: 565px;   
+    }
+    .experiance-2-2{
+        margin-left: -480px; 
+        margin-top: -150px;  
+    }
+    .experiance{
+        align-items: center;
+    }
+        /* ----Work Experieance 2 End ------*/
 
 
 /*-----Resume  End-----------*/
