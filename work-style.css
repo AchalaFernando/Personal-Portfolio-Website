@@ -54,20 +54,13 @@ tw-link:hover{
     margin-left: 30px;
 }
 
-.Social{
-    margin-top: 25px;
-}
-.social-icon{
-    margin-left: 1300px;
-    color: #d3d618; 
-    height: 100px;
-    transition: color 0.3;
-}
-.social-icon:hover{
-    color:#ffffff;   
-}
 
-/*----------*/
+
+
+
+
+
+
 
 .headding-1{
     color: #d3d618;
@@ -92,3 +85,65 @@ tw-link:hover{
     color: #999999;
     margin-left:45px;
 }
+.work-fold-1{
+  background: #d3d618;  
+  color: #999999;
+  position: absolute;
+  top: 72%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  height: 200px;
+  width: 200px;
+}
+.work-fold-1:after{
+   position: absolute; 
+  content:'';
+  right: 0;
+  top: 0;
+}
+.work-fold-1:hover:after{
+    transition-duration: 1s;
+    border-bottom: 50px solid blue;
+    border-right: 50px solid white;
+}
+/*----------*/
+.work-fold-2{
+    background: #d3d618;  
+    color: #999999;
+    position: absolute;
+    top: 72%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 200px;
+    width: 200px;
+  }
+  .work-fold-2:after{
+     position: absolute; 
+    content:'';
+    right: 0;
+    top: 0;
+  }
+  .work-fold-2:hover:after{
+      transition-duration: 1s;
+      border-bottom: 50px solid blue;
+      border-right: 50px solid white;
+  }
+
+
+
+
+/*----------*/
+.Social{
+    margin-top: 25px;
+}
+.social-icon{
+    margin-left: 1300px;
+    color: #d3d618; 
+    height: 100px;
+    transition: color 0.3;
+}
+.social-icon:hover{
+    color:#ffffff;   
+}
+
+/*----------*/
