@@ -85,54 +85,124 @@ tw-link:hover{
     color: #999999;
     margin-left:45px;
 }
-.work-fold-1{
-  background: #d3d618;  
-  color: #999999;
-  position: absolute;
-  top: 72%;
-  left: 25%;
-  transform: translate(-50%, -50%);
-  height: 200px;
-  width: 200px;
-}
-.work-fold-1:after{
-   position: absolute; 
-  content:'';
-  right: 0;
-  top: 0;
-}
-.work-fold-1:hover:after{
-    transition-duration: 1s;
-    border-bottom: 50px solid blue;
-    border-right: 50px solid white;
-}
 /*----------*/
-.work-fold-2{
-    background: #d3d618;  
+.work-fold-1{
+    background: #1f1f1e;  
     color: #999999;
     position: absolute;
     top: 72%;
-    left: 50%;
+    left: 11%;
     transform: translate(-50%, -50%);
     height: 200px;
     width: 200px;
+    border-radius: 10px;
   }
-  .work-fold-2:after{
+  .work-fold-1:after{
      position: absolute; 
     content:'';
     right: 0;
     top: 0;
   }
-  .work-fold-2:hover:after{
+  .work-fold-1:hover:after{
       transition-duration: 1s;
       border-bottom: 50px solid blue;
       border-right: 50px solid white;
   }
+  /*----------*/
+  .work-fold-2{
+      background: #c914ab;  
+      color: #999999;
+      position: absolute;
+      top: 72%;
+      left: 29%;
+      transform: translate(-50%, -50%);
+      height: 200px;
+      width: 200px;
+      border-radius: 10px;
+    }
+    .work-fold-2:after{
+       position: absolute; 
+      content:'';
+      right: 0;
+      top: 0;
+    }
+    .work-fold-2:hover:after{
+        transition-duration: 1s;
+        border-bottom: 50px solid blue;
+        border-right: 50px solid white;
+    }
+  /*----------*/
+  .work-fold-3{
+      background: #d3d618;  
+      color: #999999;
+      position: absolute;
+      top: 72%;
+      left: 47%;
+      transform: translate(-50%, -50%);
+      height: 200px;
+      width: 200px;
+      border-radius: 10px;
+    }
+    .work-fold-3:after{
+       position: absolute; 
+      content:'';
+      right: 0;
+      top: 0;
+    }
+    .work-fold-3:hover:after{
+        transition-duration: 1s;
+        border-bottom: 50px solid blue;
+        border-right: 50px solid white;
+    }
+    /*----------*/
+    .work-fold-4{
+        background: #680edf;  
+        color: #999999;
+        position: absolute;
+        top: 72%;
+        left: 65%;
+        transform: translate(-50%, -50%);
+        height: 200px;
+        width: 200px;
+        border-radius: 10px;
+      }
+      .work-fold-4:after{
+         position: absolute; 
+        content:'';
+        right: 0;
+        top: 0;
+      }
+      .work-fold-4:hover:after{
+          transition-duration: 1s;
+          border-bottom: 50px solid blue;
+          border-right: 50px solid white;
+      }
+    /*----------*/
+   .work-fold-5{
+      background: #0edfdf;  
+      color: #999999;
+      position: absolute;
+      top: 72%;
+      left: 83%;
+      transform: translate(-50%, -50%);
+      height: 200px;
+      width: 200px;
+      border-radius: 10px;
+    }
+    .work-fold-5:after{
+       position: absolute; 
+      content:'';
+      right: 0;
+      top: 0;
+    }
+    .work-fold-5:hover:after{
+        transition-duration: 1s;
+        border-bottom: 50px solid blue;
+        border-right: 50px solid white;
+    }
+  /*----------*/
 
 
-
-
-/*----------*/
 .Social{
     margin-top: 25px;
 }
