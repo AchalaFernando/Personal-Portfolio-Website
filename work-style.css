@@ -87,14 +87,14 @@ tw-link:hover{
 }
 /*----------*/
 .work-fold-1{
-    background: #1f1f1e;  
+    background: #050505;  
     color: #999999;
     position: absolute;
     top: 72%;
     left: 11%;
     transform: translate(-50%, -50%);
-    height: 200px;
-    width: 200px;
+    height: 210px;
+    width: 210px;
     border-radius: 10px;
   }
   .work-fold-1:after{
@@ -105,19 +105,19 @@ tw-link:hover{
   }
   .work-fold-1:hover:after{
       transition-duration: 1s;
-      border-bottom: 50px solid blue;
+      border-bottom: 50px solid #B41200;
       border-right: 50px solid white;
   }
   /*----------*/
   .work-fold-2{
-      background: #c914ab;  
+      background: #000000;  
       color: #999999;
       position: absolute;
       top: 72%;
       left: 29%;
       transform: translate(-50%, -50%);
-      height: 200px;
-      width: 200px;
+      height: 210px;
+      width: 210px;
       border-radius: 10px;
     }
     .work-fold-2:after{
@@ -128,19 +128,19 @@ tw-link:hover{
     }
     .work-fold-2:hover:after{
         transition-duration: 1s;
-        border-bottom: 50px solid blue;
+        border-bottom: 50px solid #00CE0E;
         border-right: 50px solid white;
     }
   /*----------*/
   .work-fold-3{
-      background: #d3d618;  
+      background: #000000;  
       color: #999999;
       position: absolute;
       top: 72%;
       left: 47%;
       transform: translate(-50%, -50%);
-      height: 200px;
-      width: 200px;
+      height: 210px;
+      width: 210px;
       border-radius: 10px;
     }
     .work-fold-3:after{
@@ -151,19 +151,19 @@ tw-link:hover{
     }
     .work-fold-3:hover:after{
         transition-duration: 1s;
-        border-bottom: 50px solid blue;
+        border-bottom: 50px solid #800363;
         border-right: 50px solid white;
     }
     /*----------*/
     .work-fold-4{
-        background: #680edf;  
+        background: #000000;  
         color: #999999;
         position: absolute;
         top: 72%;
         left: 65%;
         transform: translate(-50%, -50%);
-        height: 200px;
-        width: 200px;
+        height: 210px;
+        width: 210px;
         border-radius: 10px;
       }
       .work-fold-4:after{
@@ -174,19 +174,19 @@ tw-link:hover{
       }
       .work-fold-4:hover:after{
           transition-duration: 1s;
-          border-bottom: 50px solid blue;
+          border-bottom: 50px solid #FF9000;
           border-right: 50px solid white;
       }
     /*----------*/
    .work-fold-5{
-      background: #0edfdf;  
+      background: #000000;  
       color: #999999;
       position: absolute;
       top: 72%;
       left: 83%;
       transform: translate(-50%, -50%);
-      height: 200px;
-      width: 200px;
+      height: 210px;
+      width: 210px;
       border-radius: 10px;
     }
     .work-fold-5:after{
@@ -197,14 +197,14 @@ tw-link:hover{
     }
     .work-fold-5:hover:after{
         transition-duration: 1s;
-        border-bottom: 50px solid blue;
+        border-bottom: 50px solid #302C33;
         border-right: 50px solid white;
     }
   /*----------*/
 
 
 .Social{
-    margin-top: 25px;
+    margin-top: 250px;
 }
 .social-icon{
     margin-left: 1300px;
@@ -215,5 +215,7 @@ tw-link:hover{
 .social-icon:hover{
     color:#ffffff;   
 }
+
+
 
 /*----------*/
